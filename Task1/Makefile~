@@ -1,4 +1,0 @@
-all: thr
-
-thr:
-	gcc Trheads1.c -o Threads1 -lpthread 
